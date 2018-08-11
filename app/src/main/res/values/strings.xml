@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PopApp</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="send_button_label">Send</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+
+    <string name="emailpassword_title_text">Email and Password</string>
+
+
+</resources>

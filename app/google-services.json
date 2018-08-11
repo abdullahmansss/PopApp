@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "753887044261",
+    "firebase_url": "https://pop-up-2a4cd.firebaseio.com",
+    "project_id": "pop-up-2a4cd",
+    "storage_bucket": "pop-up-2a4cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753887044261:android:0b53499cf41a5afd",
+        "android_client_info": {
+          "package_name": "mans.abdullah.abdullah_mansour.popup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753887044261-9brpvmubbcol0fj3kquasl0f4v4bnk1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKr6smJJXrW7a-rMnCYP6433ACxgN06cw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
